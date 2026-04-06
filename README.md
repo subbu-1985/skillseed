@@ -1,8 +1,10 @@
-# 🌱 SkillSeed — Soft Skills Learning Platform
+ SkillSeed — Soft Skills Learning Platform
 
 **Backend API** built with FastAPI + SQLite · For Students (Grades 6–12)
 
 ---
+![WhatsApp Image 2026-03-25 at 8 27 16 PM](https://github.com/user-attachments/assets/c4dbafad-892e-48f3-b335-32465f633653)
+![WhatsApp Image 2026-03-25 at 8 27 16 PM (1)](https://github.com/user-attachments/assets/4a84ac6d-c7df-44ae-b76f-043d89914936)
 
 ## ⚡ Quick Start
 
@@ -302,6 +304,8 @@ Users & Auth (6), Students (3), Mentors (5), Mentor Applications (1),
 Skills (3), Content (4), Quizzes (5), Live Sessions (2),  
 Notifications (1), Subscriptions (3), Gamification (4),  
 Languages (2), Admin (2), Messaging (3), System (1)
-#   s k i l l s e e d  
- #   s k i l l s e e d  
+#   s k i l l s e e d 
+ 
+ #   s k i l l s e e d 
+ 
  
