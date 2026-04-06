@@ -1,0 +1,50 @@
+[
+    {
+        "id": "ed415fb0-5668-4126-8234-b66c8d86328e",
+        "email": "mentor1@skillseed.com",
+        "role": "mentor",
+        "first_name": "John",
+        "last_name": "Mentor",
+        "registered_at": "2026-03-09 10:56:23.867470"
+    },
+    {
+        "id": "a1723c94-39d8-46fd-b3dc-6664f89910ee",
+        "email": "mentor2@skillseed.com",
+        "role": "mentor",
+        "first_name": "Sarah",
+        "last_name": "Coach",
+        "registered_at": "2026-03-09 10:56:23.867472"
+    },
+    {
+        "id": "5e3a6033-ed66-42c2-b6bc-e82383dd2dae",
+        "email": "student1@skillseed.com",
+        "role": "student",
+        "first_name": "Alice",
+        "last_name": "Learner",
+        "registered_at": "2026-03-09 10:56:23.867473"
+    },
+    {
+        "id": "715463fb-90bf-42a5-9b65-3191b3e2f7a7",
+        "email": "purnisubbu28@gmail.com",
+        "role": "student",
+        "first_name": "subbu",
+        "last_name": "purni",
+        "registered_at": "2026-03-09 11:18:59.073029"
+    },
+    {
+        "id": "f6981a12-5145-4dc4-bbf2-f5ec0e360962",
+        "email": "teja@gmail.com",
+        "role": "mentor",
+        "first_name": "teja",
+        "last_name": "swi",
+        "registered_at": "2026-03-09 11:22:13.814847"
+    },
+    {
+        "id": "c4eac3b7-494b-4401-bf8f-1eaac0a9d783",
+        "email": "purnisubramanyam@gmail.com",
+        "role": "mentor",
+        "first_name": "Purni",
+        "last_name": "Subramanyam",
+        "registered_at": "2026-03-10 00:00:08.482244"
+    }
+]
